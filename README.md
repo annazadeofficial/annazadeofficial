@@ -1,29 +1,21 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anna%20Zade&fontSize=50&fontColor=F8F8F2&fontAlign=50&fontAlignY=38&animation=fadeIn&color=0:A8D5BA,50:A7D8DE,100:89C2D9" />
+
 <div align="center">
-
-# 👋 Hi, I'm Anna Zade
-
-### Senior Software Quality Assurance (SQA) Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+SQA+Engineer;Automation+Testing+Expert;Cypress+%7C+Playwright+%7C+Selenium;API+%7C+Performance+%7C+Integration+Testing;Delivering+High+Quality+Software" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=7BC8B6&center=true&vCenter=true&width=900&lines=Senior+SQA+Engineer;Automation+Testing+Expert;Cypress+%7C+Playwright+%7C+Selenium;API+%7C+Performance+%7C+Integration+Testing;Delivering+High+Quality+Software" />
 </div>
 
----
-
 <div align="center">
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 Passionate QA professional with **6+ years of experience** ensuring software quality across **FinTech, Healthcare, Retail, EdTech, Web3, and Telecommunications** domains.
 I specialize in building scalable automation frameworks, designing reliable testing strategies, and integrating quality into CI/CD pipelines. My expertise spans **functional, regression, integration, API, and performance testing**, helping engineering teams ship reliable software faster while reducing production defects.
 
 </div>
 
----
-
 <div align="center">
 
-# ✨ Key Highlights
+## ✨ Key Highlights
 
 ✔️ 6+ years of Software Quality Assurance experience
 
@@ -37,11 +29,10 @@ I specialize in building scalable automation frameworks, designing reliable test
 
 </div>
 
----
 
 <div align="center">
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
@@ -109,11 +100,10 @@ I specialize in building scalable automation frameworks, designing reliable test
 
 </div>
 
----
 
 <div align="center">
 
-# 🚀 Professional Projects
+## 🚀 Professional Projects
 
 | Project | Description | Responsibilities & Impact |
 |---------|-------------|---------------------------|
@@ -124,11 +114,10 @@ I specialize in building scalable automation frameworks, designing reliable test
 
 </div>
 
----
 
 <div align="center">
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=annazadeofficial&theme=github_dark&hide_border=true&show_icons=true)
 
@@ -138,19 +127,16 @@ I specialize in building scalable automation frameworks, designing reliable test
 
 </div>
 
----
 
 <div align="center">
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 [![Email Badge](https://img.shields.io/badge/-annazadeofficial%40gmail.com-3B4252?style=flat&logo=gmail&logoColor=BF616A)](mailto:annazadeofficial@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-annazadeofficial-3B4252?style=flat&logo=github&logoColor=ECEFF4)](https://github.com/annazadeofficial)
-
+[![Download Resume Badge](https://img.shields.io/badge/-Download%20Resume-3B4252?style=flat&logo=googledrive&logoColor=A3BE8C)](https://drive.google.com/file/d/testupdate/view?usp=sharing)
 
 </div>
-
----
 
 <div align="center">
 
